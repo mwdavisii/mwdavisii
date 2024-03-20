@@ -37,6 +37,6 @@ A long time ago, I built apps, but now when I do get to code, it's mostly back-e
 ![Redis](https://img.shields.io/badge/redis-05122A.svg?style=flat&logo=redis)
 ![Scala](https://img.shields.io/badge/-scala-05122A?style=flat&logo=scala&logoColor=1993EF)
 ![Shell Script](https://img.shields.io/badge/shell_script-05122A.svg?style=flat&logo=gnu-bash)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube)
+![SonarQube](https://img.shields.io/badge/SonarQube-05122A?style=flat&logo=sonarqube)
 ![Terraform](https://img.shields.io/badge/-terraform-05122A?style=flat&logo=terraform&logoColor=1993EF)
 ![YAML](https://img.shields.io/badge/yaml-05122A.svg?style=flat&logo=yaml)
