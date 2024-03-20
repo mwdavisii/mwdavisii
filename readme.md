@@ -8,7 +8,7 @@ I design enterprise systems and platforms and help develop and grow engineering,
 
 I also enjoy advising small companies and non-profits on technology and occasionally helping out internet strangers on reddit solve issues. 
 
-A long time ago, I built apps, but now when I do get to code, it's mostly back-ends and platforms. I seem to write more confluence docs and `.yaml` these days than anything else
+I built apps a long time ago, but now, when I do get to code, it's mostly back-ends and platforms. I seem to write more `.yaml` and confluence these days than anything else.
 
 ### Languages, Tools & Platforms 🔧
 
