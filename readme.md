@@ -6,7 +6,7 @@ I am a dad who also enjoys fly fishing and collecting retro games and consoles.
 
 I design enterprise systems and platforms and help develop and grow engineering, infrastructure, security, and operations teams.
 
-I also enjoy advising small companies and non-profits on technology and occasionally helping out internet strangers solve issues. 
+I also enjoy advising small companies and non-profits on technology and occasionally helping internet strangers solve issues. 
 
 I built apps a long time ago, but now, when I do get to code, it's mostly back-ends and platforms. I seem to write more `.yaml` and confluence docs than anything else these days.
 
