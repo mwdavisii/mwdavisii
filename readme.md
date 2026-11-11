@@ -1,82 +1,76 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
 
-### I'm Mike Davis
+# Hey, I'm Mike <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-I lead platform engineering, hosting, and operations teams in healthcare and research, and I spend most of my time designing platforms and working with the engineers, infrastructure, security, and operations folks who run them.
+<a href="https://github.com/mwdavisii"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Platform+%26+ops+leader+in+healthcare+%2B+research;Putting+AI+agents+to+work+(safely);Overbuilt+homelab+enthusiast;Writes+specs.+Agents+write+code.+Still+lots+of+YAML." alt="Typing SVG" /></a>
 
-Lately that means figuring out how to put AI agents to work safely in real operations: agentic workflows for infrastructure, secure pipelines that let people vibecode without blowing anything up, and getting whole teams comfortable building with AI.
+</div>
 
-At home I run an overbuilt homelab with local LLM inference and a small crew of AI agents with names like Cato, Jarvis, and Mycroft. I also design and 3D-print parts for my 10" rack, do microsoldering, fly fish, and collect retro games and consoles.
+---
 
-I still advise small companies and non-profits on technology, and I still help internet strangers fix things now and then.
+### ⚡ TL;DR
 
-I built apps a long time ago. These days I write more specs and prompts than code, and the agents write the code. There's still plenty of `.yaml`.
+```yaml
+day_job:   platform engineering, hosting & ops leadership — clinical + research
+obsessed:  agentic AI that's actually safe to run in production
+homelab:   2x DGX Spark, Proxmox, k3s, 9 VLANs, and a crew of AI agents
+hands_on:  3D printing, FreeCAD, microsoldering, retro consoles
+offline:   dad, fly fishing
+```
 
-### 🔭 What I'm working on
+### 🚧 Currently building
 
-- **Agentic infra ops**: LangGraph and n8n agents for data center and infrastructure operations
-- **Secure vibecoding pipeline**: containerize, scan (Snyk + Trivy), agentic code review with risk-based human gates, then deploy to isolated k8s
-- **Local AI**: two DGX Spark nodes running vLLM/llama.cpp behind a LiteLLM gateway with SSO
-- **[nyx](https://github.com/mwdavisii/nyx)**: my NixOS config for everything, with Greek mythology naming throughout
+| | Project | What it is |
+|---|---|---|
+| 🤖 | **Agentic infra ops** | LangGraph + n8n agents for data center & infrastructure operations |
+| 🛡️ | **Secure vibecoding pipeline** | Containerize → Snyk/Trivy scan → agentic code review w/ risk-based human gates → isolated k8s |
+| 🖍️ | **[coloringbook](https://github.com/mwdavisii/coloringbook)** | A skill that turns tech docs & policies into ELI5 coloring books |
+| 🧠 | **Local AI stack** | vLLM + llama.cpp behind a LiteLLM gateway (SSO via Authentik), feeding agents named Cato, Jarvis & Mycroft |
+| ❄️ | **[nyx](https://github.com/mwdavisii/nyx)** | NixOS config for everything |
 
-### 🤖 AI & Agents
+### 🧰 Stack
 
-![Claude](https://img.shields.io/badge/Claude%20Code-05122A?style=flat&logo=claude)
-![LangChain](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-05122A?style=flat&logo=langchain)
-![n8n](https://img.shields.io/badge/n8n-05122A?style=flat&logo=n8n)
-![vLLM](https://img.shields.io/badge/vLLM-05122A?style=flat)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-05122A?style=flat)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-05122A?style=flat)
-![NVIDIA](https://img.shields.io/badge/DGX%20Spark-05122A?style=flat&logo=nvidia)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-05122A?style=flat&logo=huggingface)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,grafana,prometheus,cloudflare,linux,arch&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,go,cs,nodejs,bash,nix,git,neovim&perline=10" />
+</p>
 
-### ☁️ Platform & Cloud
+**AI & Agents**<br/>
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-8A2BE2?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-111111?style=for-the-badge)
+![DGX Spark](https://img.shields.io/badge/DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-05122A.svg?style=flat&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A.svg?style=flat&logo=google-cloud)
-![Kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)
-![Flux](https://img.shields.io/badge/Flux-05122A?style=flat&logo=flux)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Terraform](https://img.shields.io/badge/-terraform-05122A?style=flat&logo=terraform&logoColor=1993EF)
-![Istio](https://img.shields.io/badge/istio-05122A?style=flat&logo=istio)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-05122A?style=flat&logo=Apache%20Kafka)
-![Grafana](https://img.shields.io/badge/grafana-05122A.svg?style=flat&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-05122A?style=flat&logo=Prometheus)
+**Security & Identity**<br/>
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=for-the-badge&logo=authentik&logoColor=white)
 
-### 🔐 Security & Identity
+**Homelab**<br/>
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
+![Flux](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
 
-![Snyk](https://img.shields.io/badge/Snyk-05122A?style=flat&logo=snyk)
-![Trivy](https://img.shields.io/badge/Trivy-05122A?style=flat&logo=aqua)
-![SonarQube](https://img.shields.io/badge/SonarQube-05122A?style=flat&logo=sonarqube)
-![Authentik](https://img.shields.io/badge/Authentik-05122A?style=flat&logo=authentik)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-05122A?style=flat&logo=vaultwarden)
+**Making Things**<br/>
+![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=for-the-badge&logo=freecad&logoColor=white)
+![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
+![Soldering Iron](https://img.shields.io/badge/Microsoldering-B87333?style=for-the-badge)
 
-### 🏠 Homelab
+---
 
-![Proxmox](https://img.shields.io/badge/Proxmox-05122A?style=flat&logo=proxmox)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-05122A?style=flat&logo=truenas)
-![k3s](https://img.shields.io/badge/k3s-05122A?style=flat&logo=k3s)
-![OPNsense](https://img.shields.io/badge/OPNsense-05122A?style=flat&logo=opnsense)
-![Tailscale](https://img.shields.io/badge/Tailscale-05122A?style=flat&logo=tailscale)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat&logo=cloudflare)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-05122A?style=flat&logo=homeassistant)
-![NixOS](https://img.shields.io/badge/NixOS-05122A?style=flat&logo=nixos)
-![Arch](https://img.shields.io/badge/Arch%20Linux-05122A?style=flat&logo=archlinux)
+<div align="center">
 
-### 💻 Languages & Tools
+💬 **Ask me about:** agentic ops · AI governance · homelabs · platform teams · getting engineers to actually like AI
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
-![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=189F20)
-![NodeJS](https://img.shields.io/badge/node.js-05122A?flat&logo=node.js)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
-![Nix](https://img.shields.io/badge/-Nix-05122A?style=flat&logo=nixos)
-![YAML](https://img.shields.io/badge/yaml-05122A.svg?style=flat&logo=yaml)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim)
+🤝 I advise small companies & non-profits, and occasionally help internet strangers fix things.
 
-### 🛠️ Making Things
-
-![FreeCAD](https://img.shields.io/badge/FreeCAD-05122A?style=flat&logo=freecad)
-![CadQuery](https://img.shields.io/badge/CadQuery-05122A?style=flat)
-![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-05122A?style=flat&logo=bambulab)
+</div>
